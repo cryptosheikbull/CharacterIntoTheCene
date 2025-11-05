@@ -1,0 +1,5 @@
+{
+  "name": "Character into the scene",
+  "description": "An application to create an image montage by replacing a character in a scene with a new one. Users can choose to either insert the character into the original scene or have the AI recreate the scene for a seamless blend.",
+  "requestFramePermissions": []
+}
